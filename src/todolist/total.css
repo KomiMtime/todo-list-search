@@ -1,0 +1,19 @@
+.totalBox{
+    width:600px;
+    margin: 15px auto 0;
+}
+.totalBox li{
+    height:36px;
+    margin-bottom: 10px;
+    background-color:#21212b;
+    line-height: 36px;
+    color:#fff;
+    padding: 0 10px;
+}
+.totalBox li span{
+    display: inline-block;
+    padding: 0 5px;
+    height: 26px;
+    line-height: 26px;
+    background-color: #fc5539;
+}

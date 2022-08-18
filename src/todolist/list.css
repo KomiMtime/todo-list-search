@@ -1,0 +1,18 @@
+.listBox {
+  width: 600px;
+  margin: 0 auto;
+}
+.listData {
+  height: 36px;
+  background-color: #21212b;
+  margin-top: 15px;
+  border-left: 3px solid #fc5539;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  justify-content:space-between;
+  color:#fff;
+}
+ul,li{
+    list-style: none;
+}
